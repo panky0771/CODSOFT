@@ -21,8 +21,11 @@ To ensure that the projects run smoothly, install the required Python library by
     ```bash
     pip install ttkthemes
     ```
+    ```bash
+    pip install requests
+    ```
 
-    This installs the necessary `ttkthemes` library.
+    This installs the necessary `ttkthemes` & `requests` library.
 
 ## Running the Projects
 
